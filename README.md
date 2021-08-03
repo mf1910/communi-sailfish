@@ -1,3 +1,7 @@
+Made to build for aarch64 but master had a bug that cause commands to not be saved which I fixed. Created as new version 0.11.
+
+Original message below
+
 IRC for Sailfish
 ================
 
